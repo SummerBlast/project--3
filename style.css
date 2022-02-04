@@ -1,0 +1,59 @@
+body{
+    background-color: red;
+}
+
+.img1{
+    height: 100px;
+    width: 250px;
+}
+.navbar ul li{
+    padding: 15px;
+}
+.navbar ul li a{    
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    transition:0.3s;
+    color: black!important;
+    
+}
+
+.navbar ul li a:hover{
+    font-size:25px ;
+    background-color: crimson;
+    border-radius: 15px;
+
+   
+}
+.dropdown1{
+    font-size: 20px;
+    background-color: #f8f9fa;
+    transition:0.3s;
+}
+.dropdown1:hover{
+    font-size:25px ;
+    background-color: crimson;
+    border-radius: 15px;
+}
+
+ .navbar ul li .home1 {
+    font-size: 20px;
+    text-decoration: underline;
+    transition:0.3s;
+
+    
+}
+
+.navbar ul li .home1:hover{
+    font-size: 25px;
+    
+ 
+} 
+.navbar2 ul li{
+    display: inline-flex;
+    padding: 10px;
+    margin: auto;
+}
+.carousel-inner.carousel-item .pic1{
+    height:500px;
+}
