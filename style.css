@@ -1,6 +1,4 @@
-body{
-    background-color: red;
-}
+
 
 .img1{
     height: 100px;
@@ -35,7 +33,9 @@ body{
     background-color: crimson;
     border-radius: 15px;
 }
-
+.clear{
+    clear: both;
+}
  .navbar ul li .home1 {
     font-size: 20px;
     text-decoration: underline;
@@ -53,7 +53,4 @@ body{
     display: inline-flex;
     padding: 10px;
     margin: auto;
-}
-.carousel-inner.carousel-item .pic1{
-    height:500px;
 }
