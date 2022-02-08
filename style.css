@@ -107,3 +107,11 @@
       border: 1px solid darkcyan!important;
       max-width: 70%;
   }
+  .hr2{
+    border: 1px solid rgb(245, 245, 3);
+    max-width: 70%;
+}
+  .img4{
+      height: 100px;
+      width: 150px;
+  }
